@@ -12,7 +12,7 @@ The AGROX app is a comprehensive solution designed to provide guidance and suppo
 ![Conceptual Diagram BASA 2](https://user-images.githubusercontent.com/101692241/219119143-e6c77b45-a437-4116-bbcf-e36e68fb6121.jpg)
 
 Main Objective:
-In this research study, we are developing a mobile application for the Cinnamon industry to provide functionalities to guide through ideal growing conditions, planting and harvesting procedures, pests and disease management, market and quality assurance, and a platform and a trained virtual assistant for additional support. This application is for beginners to expertlevel industrial personnel and anyone who seeks knowledge.
+In this research study, we are developing a mobile application for the Cinnamon industry to provide functionalities to guide through ideal growing conditions, planting and harvesting procedures, pests and disease management, market and quality assurance, and a platform and a trained virtual assistant for additional support. This application is for beginners to expert level industrial personnel and anyone who seeks knowledge.
 
 Team:
 01. Ravishan S.A.A. (Leader)
