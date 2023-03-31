@@ -21,4 +21,4 @@ Team:
 04. Ekanayaka E.M.A.I.B.
 
 As the leader of the group, I assign task via MS Teams Todo Planner. And I am encurraging group members to reffer research publications with maintaining an excel sheet.
--Ravishan S.A.A. (Group Leader)
+-Ravishan S.A.A. (Group Leader) 
