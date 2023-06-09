@@ -1,6 +1,9 @@
 # Research_Project v2
 Topic: AGROX - Elevating Cinnamon Industry through Expert Guidance and Support
 
+![Uploading Screenshot 2023-06-09 at 11.52.20 AM.png…]()
+
+
 AGROX is a comprehensive application aimed at addressing the challenges faced by cinnamon planters. The application provides a one-stop solution for the industry, offering comprehensive guidance and support for ideal growing conditions, planting, and harvesting procedures. One of the key features of AGROX is its ability to tackle pest and disease management, specifically, rough bark disease [1]. The application leverages the latest advances in visual computing to provide suggestions for disease control, thereby ensuring the health of the cinnamon plants. In addition, AGROX also aims to enhance market information and quality assurance for cinnamon through its image processing capabilities [2]. This enables the determination of cinnamon grade, providing a more informed market for both planters and consumers. Another key advantage of AGROX is its community platform and trained virtual assistant [3]. Unlike traditional methods such as Facebook apps, the information provided in AGROX is approved to guarantee accuracy. This reduces the risk of false information spread and provides a more reliable source of information for the industry. In conclusion, AGROX is a game-changer for the cinnamon industry. Its comprehensive approach to growing conditions, pest and disease management, market information, and support, make it a valuable tool for cinnamon planters. The application's commitment to accuracy and reliability sets it apart from traditional methods, providing a more trustworthy source of information for the industry.
 References:
 [1] Proceedings of the symposium on minor export crops (Ed: B. Marambe) 16 – 17 March 2017, Peradeniya, Sri Lanka. 
