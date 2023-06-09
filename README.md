@@ -1,4 +1,4 @@
-# Research_Project v2
+# Research_Project V3.2
 Topic: AGROX - Elevating Cinnamon Industry through Expert Guidance and Support
 
 <img width="833" alt="Screenshot 2023-06-09 at 11 52 20 AM" src="https://github.com/AvishkaRavishan/Research_Project/assets/101692241/e0eba426-af0f-4047-bc65-33b943b5a654">
